@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+simbg.pu.go.id	TRUE	/	FALSE	1999999999	simbg_session	9100fea0bce81afadaebdc55cc129119c91a6d12
+simbg.pu.go.id	TRUE	/	FALSE	1999999999	csrf_cookie_name	924a4d0986941088b1280d7c977157ce
+
